@@ -1,2 +1,2 @@
 # TensorFlow
-building neural networks with tensor flow
+This project demonstrate building neural networks with tensor flow.
